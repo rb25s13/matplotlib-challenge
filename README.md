@@ -28,23 +28,23 @@ The scatter plot of Average Tumor Volume vs Mouse Weight (g) shows a clear corre
 between tumor volume and mouse weight. The mice that were heavier, had a higher tumor 
 volume on average.
 <br />
-<img style="margin:0 auto;display:block" src="./data/img/atv-mw.png">
+<p align="center"><img src="./data/img/atv-mw.png"></p>
 <br />
 Looking at our line plot of tumor volume vs, time point on the Capomulin drug regimen, 
 it was an effective drug, decreasing the tumor volume in a majority of mice treated 
 by this drug.
 <br />
-<img style="margin:0 auto;display:block" src="./data/img/capo.png">
+<p align="center"><img src="./data/img/capo.png"></p>
 <br />
 Pie chart shows that the sample distribution of genders is even. There were 50.7% (958) 
 male mice and 49.3% (930) female mice.
 <br />
-<img style="margin:0 auto;display:block" src="./data/img/gen.png">
+<p align="center"><img src="./data/img/gen.png"></p>
 <br />
 
 ### Additional Charts:
 
-<img style="margin:0 auto;display:block" src="./data/img/ftv.png">
+<p align="center"><img src="./data/img/ftv.png"></p>
 <br />
-<img style="margin:0 auto;display:block" src="./data/img/cotv-mw.png">
+<p align="center"><img src="./data/img/cotv-mw.png"></p>
 <br />
